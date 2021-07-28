@@ -1,4 +1,4 @@
-<h2> Hi, I'm sjkcdpc!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm caiqing0204!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>
   <em>Software Enginner at Beijing </a>
@@ -7,7 +7,7 @@
   </em>
 </p>
 
-[![GitHub sjkcdpc](https://img.shields.io/github/followers/sjkcdpc?label=follow&style=social)](https://github.com/sjkcdpc)
+[![GitHub caiqing0204](https://img.shields.io/github/followers/caiqing0204?label=follow&style=social)](https://github.com/caiqing0204)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png) |
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/sjkcdpc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/caiqing0204/count.svg)
