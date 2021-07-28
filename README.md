@@ -14,7 +14,7 @@
 
 ```javascript
 const Shaddock = {
-  pronouns: "he",
+  pronouns: "Jeaner",
   code: [React, Python, Golang, Shell],
   tools: [Kubernetes, Docker],
   architecture: ["microservices"],
